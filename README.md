@@ -1,6 +1,6 @@
 # Bill Georgeson Individual Project (Enterprise Java Spring 2021)
 
-This repository hold of the documentation for the AboutTheMusic Web application.
+This repository holds all of the documentation for the AboutTheMusic Web application.
 
 ### Problem Statement
 
