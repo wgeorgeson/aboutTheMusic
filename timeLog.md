@@ -8,6 +8,7 @@
 * Git commands review (Add, Commit, Push)
 * Creating Maven Project in IntelliJ with cloned repo
 
+
 ### Week 2
 #### Time spent: 12 hours
 #### Key Topics:
@@ -17,25 +18,31 @@
   * Updating or altering project web.xml, pom.xml, .gitignore file
 * Debugging
 
+
 ### Week 3
 #### Time spent:
 #### Key Topics:
+
 
 ### Week 4
 #### Time spent:
 #### Key Topics:
 
+
 ### Week 5
 #### Time spent:
 #### Key Topics:
+
 
 ### Week 6
 #### Time spent:
 #### Key Topics:
 
+
 ### Week 7
 #### Time spent:
 #### Key Topics:
+
 
 ### Week 8
 #### Time spent:
